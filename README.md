@@ -56,8 +56,6 @@ The data used in this project is based on simulated Amazon sales data, containin
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot]([./path-to-image.png](https://github.com/srishti-chopra/Amazon-Products-Sales-Analysis-Dashboard/blob/main/Product%20Sales%20Analysis%20Dashboard.PNG))
-
-## 🙌 Let's Connect
+<img width="1440" height="808" alt="image" src="https://github.com/user-attachments/assets/26b16480-f62d-4861-90eb-144b0a625f08" />
 
 If you liked this project or found it useful, feel free to ⭐ the repo or connect with me on [LinkedIn](#)!
